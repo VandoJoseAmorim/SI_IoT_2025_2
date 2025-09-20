@@ -15,7 +15,6 @@ Link: https://www.anaconda.com/download/success
 [![Assista ao vídeo no Vimeo](https://github.com/igarashimassaki/SI_IoT_2025_2/blob/main/thumb.jpg)](https://vimeo.com/724995785)
 *Clique na imagem para abrir o vídeo no Vimeo.*
 
-
 #Para atualizar versão do Python:
 python -V
 
@@ -34,8 +33,7 @@ conda create --name python python=3.12
 conda activate python
 conda create --name python=3.12.3
 # To activate this environment, use
-
-conda activate streamlit
+conda activate python
 
 #     $ conda activate streamlit
 # To deactivate an active environment, use
