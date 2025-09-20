@@ -11,7 +11,7 @@ https://teams.microsoft.com/l/team/19%3A0LTH4WPC0Uaflxchm7Tgv733H15q9p5uomB2LzDo
 # **Dicas Linguagem Python:**
 ## INSTALE O ANACONDA PYTHON
 Link: https://www.anaconda.com/download/success
-[![](http://markdown-videos-api.jorgenkh.no/youtube/8lGpZkjnkt4)](https://vimeo.com/manage/videos/724995785)
+[![](https://vimeo.com/manage/videos/724995785)](Tutorial_Instalacao_ANACONDA.mov)
 
 
 
