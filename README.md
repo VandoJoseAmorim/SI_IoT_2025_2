@@ -25,16 +25,13 @@ conda update -n base -c defaults conda
 # conda create --name <env_name> python=3.8
 conda create --name python python=3.12
 conda activate python
-##3.12.3
 conda create --name python=3.12.3
 # To activate this environment, use
 
 conda activate streamlit
 
 #     $ conda activate streamlit
-#
 # To deactivate an active environment, use
-#
 #     $ conda deactivate
 
 conda update -n base -c defaults conda
@@ -53,5 +50,7 @@ python.exe -m pip install --upgrade pip
 conda create --name python310 python=3.10
 
 pip3 install -r requirements.txt 
+
 ou 
+
 python -m pip install -r requirements.txt
