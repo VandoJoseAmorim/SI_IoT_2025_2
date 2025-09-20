@@ -1,5 +1,6 @@
-ROTEIRO AULA 05
+# **ROTEIRO AULA 05//
 Prof. Massaki
+
 INSTALE O ANACONDA PYTHON
 Link: https://www.anaconda.com/download/success
 
