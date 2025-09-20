@@ -39,23 +39,23 @@ conda activate python
 # To deactivate an active environment, use
 #     $ conda deactivate
 
-conda update -n base -c defaults conda
+- conda update -n base -c defaults conda
 
-python -m pip install streamlit
+- python -m pip install streamlit
 
-python -m streamlit hello
+- python -m streamlit hello
 
-python -m streamlit run app.py
+- python -m streamlit run app.py
 
-pip install streamlit --upgrade
+- pip install streamlit --upgrade
 
-python -m pip install --upgrade pip
-python.exe -m pip install --upgrade pip
+- python -m pip install --upgrade pip
+- python.exe -m pip install --upgrade pip
 
-conda create --name python310 python=3.10
+- conda create --name python310 python=3.10
 
-pip3 install -r requirements.txt 
+- pip3 install -r requirements.txt 
 
 ou 
 
-python -m pip install -r requirements.txt
+- python -m pip install -r requirements.txt
