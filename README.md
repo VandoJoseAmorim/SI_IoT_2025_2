@@ -2,6 +2,7 @@ ROTEIRO AULA 05
 Prof. Massaki
 INSTALE O ANACONDA PYTHON
 Link: https://www.anaconda.com/download/success
+
 ▶️ Dicas para instalação: https://vimeo.com/724995785
 
 [![Assista ao vídeo no Vimeo](https://github.com/igarashimassaki/SI_IoT_2025_2/blob/main/thumb.jpg)](https://vimeo.com/724995785)
