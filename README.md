@@ -8,7 +8,14 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 link m.teams:
 https://teams.microsoft.com/l/team/19%3A0LTH4WPC0Uaflxchm7Tgv733H15q9p5uomB2LzDo7jw1%40thread.tacv2/conversations?groupId=01c2718d-f807-46d1-8e68-386597ef5306&tenantId=b1051c4b-3b94-41ab-9441-e73a72342fdd
 
-# Dicas Linguagem Python:
+# **Dicas Linguagem Python:**
+## INSTALE O ANACONDA PYTHON
+Link: https://www.anaconda.com/download/success
+[![VIDEO](https://vimeo.com/724995785{video_id})
+
+
+
+
 #Para atualizar versão do Python:
 python -V
 
