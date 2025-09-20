@@ -12,7 +12,7 @@ https://teams.microsoft.com/l/team/19%3A0LTH4WPC0Uaflxchm7Tgv733H15q9p5uomB2LzDo
 ## INSTALE O ANACONDA PYTHON
 Link: https://www.anaconda.com/download/success
 ## Assista ao vídeo
-[![Assista ao vídeo no Vimeo](THUMBNAIL_URL)](https://vimeo.com/724995785)
+[![Assista ao vídeo no Vimeo](https://github.com/igarashimassaki/SI_IoT_2025_2/blob/main/thumb.jpg)](https://vimeo.com/724995785)
 *Clique na imagem para abrir o vídeo no Vimeo.*
 
 
