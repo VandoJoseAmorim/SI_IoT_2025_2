@@ -1,0 +1,9 @@
+streamlit==1.49.1
+pandas
+numpy
+matplotlib
+requests
+pytz
+plotly.express
+wordcloud
+pillow
