@@ -44,18 +44,22 @@ conda update -n base -c defaults conda
 
 pip3 install -r requirements.txt 
 ou 
-python -m pip install -r requirements.txt
+- **python -m pip install -r requirements.txt**
 
 Os Packages ficam em
 c:\users\massa\.conda\envs\python\lib\site-packages
+
 [notice] A new release of pip is available: 24.0 -> 24.1.1
 
-[notice] To update, run: python.exe -m pip install --upgrade pip
+[notice] To update, run: 
+python.exe -m pip install --upgrade pip
 
 - python -m pip install --upgrade pip
 
 Passo 1
+
 pip3 install --upgrade pip
 
 Passo 2
+
 - **python -m pip install -r requirements.txt**
