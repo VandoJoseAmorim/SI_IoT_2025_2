@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+requests>=2.31.0
+Flask==2.3.3
+dash==2.14.2
+plotly==5.18.0
+pandas==2.1.1
+
