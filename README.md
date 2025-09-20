@@ -34,13 +34,13 @@ conda activate streamlit
 #     $ conda deactivate
 
 conda update -n base -c defaults conda
-python -m pip install streamlit
-python -m streamlit hello
-python -m streamlit run app.py
-pip install streamlit --upgrade
-python -m pip install --upgrade pip
-python.exe -m pip install --upgrade pip
-conda create --name python310 python=3.10
+- python -m pip install streamlit
+- python -m streamlit hello
+- python -m streamlit run app.py
+- pip install streamlit --upgrade
+- python -m pip install --upgrade pip
+- python.exe -m pip install --upgrade pip
+- conda create --name python310 python=3.10
 
 pip3 install -r requirements.txt 
 ou 
@@ -49,13 +49,13 @@ python -m pip install -r requirements.txt
 Os Packages ficam em
 c:\users\massa\.conda\envs\python\lib\site-packages
 [notice] A new release of pip is available: 24.0 -> 24.1.1
+
 [notice] To update, run: python.exe -m pip install --upgrade pip
 
-python -m pip install --upgrade pip
+- python -m pip install --upgrade pip
 
-
- 
 Passo 1
 pip3 install --upgrade pip
+
 Passo 2
-python -m pip install -r requirements.txt
+- **python -m pip install -r requirements.txt**
