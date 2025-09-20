@@ -1,3 +1,5 @@
+# **OBS:** Baixar https://github.com/plotly/dash-daq
+
 # Roteiro e Material de Aula: Construindo Dashboards com Flask e Dash para ESP32
 
 ## Introdução
