@@ -15,7 +15,7 @@ st.title("📈 Dashboard de Monitoramento de Sensores")
 st.markdown("Este webapp exibe dados de sensores coletados em tempo real a partir de uma planilha do Google Sheets.")
 
 # --- Carregamento de Dados com Cache ---
-URL_CSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR5w6OFL_o3ZKj7Awz46cIvmKZsSpXgW35NeWWbjgbSDSC8FGo125-hXs4-hOmihvC-IFXuLKcZ2C6o/pub?gid=859827063&single=true&output=csv"
+URL_CSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2wRT11_aFFxNrTiGECHYpVm8jGQ-0pSrkhobmGOD1TITXduEMgwnZAcqGuUZMF3xLDNZXDtJXKcXR/pub?gid=205634045&single=true&output=csv"
 
 @st.cache_data(ttl=180 ) # Cache expira a cada 3 minutos
 def carregar_dados(url):
